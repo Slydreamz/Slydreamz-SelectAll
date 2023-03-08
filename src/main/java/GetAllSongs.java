@@ -11,7 +11,7 @@ import java.util.List;
  *
  * In this lab we are going to learn how to retrieve all the records from a table.
  *
- * The syntax for retrieving all rows and columns from a database table looks like the following:
+ * The syntax for retrieving all rows and columns from a database table looks like the following
  * SELECT * FROM table_name;
  *
  * NOTE: the * is a wildcard character to retrieve all the columns from the table.
